@@ -51,3 +51,8 @@ html, body {
     color: white;
  height: 30px;
   }
+
+  .text {
+    text-align: left;
+    font-size: 15px;
+  }
