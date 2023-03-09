@@ -43,3 +43,11 @@ html, body {
     display:block;
      
   }
+  push {
+    height: 50px;
+  }
+  button {
+    background-color: red;
+    color: white;
+ height: 30px;
+  }
